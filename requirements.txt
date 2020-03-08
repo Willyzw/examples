@@ -1,0 +1,10 @@
+
+torchtext
+lmdb
+torch
+gym
+six
+spacy
+tqdm
+torchvision
+numpy
